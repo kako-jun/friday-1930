@@ -4,6 +4,28 @@ chapter: 1
 title: "Friday 19:30 — プロローグ"
 ---
 
+## data: マスター
+
+[モンスター slime]
+名前: スライム
+HP: 10
+ATK: 3
+DEF: 1
+AGI: 2
+EXP: 2
+GOLD: 1
+[/モンスター]
+
+[モンスター ghost]
+名前: ゴースト
+HP: 14
+ATK: 5
+DEF: 2
+AGI: 6
+EXP: 4
+GOLD: 3
+[/モンスター]
+
 ## opening: 19:30 の合図
 
 [BGM: silence.ogg]
@@ -34,6 +56,9 @@ T..........T
 T..........T
 TTTTTTTTTTTT
 [/マップ]
+
+[エンカウント率: 1/8]
+[エンカウント群: slime, ghost, slime+ghost]
 
 [プレイヤー @5,7 向き=上]
 
